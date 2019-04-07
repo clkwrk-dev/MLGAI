@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 059ea9da35f967845b28b18df83d1d3e
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/Demonstrations/AgentRecording.demo
+  externalObjects: {}
+  userData: ' (MLAgents.Demonstration)'
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 7bd65ce151aaa4a41a45312543c56be1, type: 3}
