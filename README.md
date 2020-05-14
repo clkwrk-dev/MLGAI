@@ -1,3 +1,3 @@
 # Machine Learning Game AI
 
-A simple 3D soccer game which uses neural networks to train its NPCs real-time.
+This repository contains my final year project on Using Neural Networks in Video Games.
